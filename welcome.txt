@@ -1,2 +1,2 @@
-Print"Welcome"
-Print"hay"
+Print("Welcome");
+Print("hay");
